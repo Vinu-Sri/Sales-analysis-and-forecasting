@@ -31,3 +31,6 @@ This project focuses on analyzing sales data to identify patterns, trends, and s
 1. Clone the repository:
    ```bash
    git clone https://github.com/Vinu-Sri/Sales-analysis-and-forecasting.git
+2. Open the notebook in Jupyter:
+   sales analysis and forecsting.ipynb
+3. Run cells step by step to reproduce the analysis and forecasts
